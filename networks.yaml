@@ -3,10 +3,10 @@ polygon:
   network: matic
   Vault:
     address: "0xBA12222222228d8Ba445958a75a0704d566BF2C8"
-    startBlock: 15832990
+    startBlock: 31229362
   WeightedPoolFactory:
-    address: "0x58a7Ab12B085702f599e69EF4bB42Fa918F43213"
-    startBlock: 15832998
+    address: "0x040308be59d8B2b55D8A7901d5601E3211F41492"
+    startBlock: 31229362
 # REMINDER: when adding new factories, update both polygon and polygonGrafted
 polygonGrafted:
   network: matic
@@ -15,7 +15,7 @@ polygonGrafted:
     base: QmRwWT9GQQ4GQsJBB8XwunVcSvdpjzaKk7Qb9FPrW68KAb
   Vault:
     address: "0xBA12222222228d8Ba445958a75a0704d566BF2C8"
-    startBlock: 15832990
+    startBlock: 31229362
   WeightedPoolFactory:
-    address: "0x58a7Ab12B085702f599e69EF4bB42Fa918F43213"
-    startBlock: 15832998
+    address: "0x040308be59d8B2b55D8A7901d5601E3211F41492"
+    startBlock: 31229362
