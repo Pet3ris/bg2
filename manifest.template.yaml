@@ -5,7 +5,7 @@ graft:
   base: {{graft.base}}
   block: {{graft.block}}
 {{/if}}
-repository: https://github.com/Pete3ris/bg2
+repository: https://github.com/Pet3ris/bg2
 schema:
   file: ./schema.graphql
 dataSources:
